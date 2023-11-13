@@ -5,7 +5,7 @@ class CustomDictionary:
         self.dictionary = {}
         self.synonyms = {}
 
-    def add_word(self, word, part_of_speech, synonyms=None):
+    def add_word(self, word, part_of_speech, definition, synonyms=None):
         if word not in self.dictionary:
             self.dictionary[word] = {"definitions": [], "synonyms": []}
         self.dictionary[word].append({"part_of_speech": part_of_speech, "definition": definition})
