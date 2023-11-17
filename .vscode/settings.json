@@ -1,0 +1,9 @@
+{
+    "git.enableSmartCommit": true,
+    "git.defaultBranchName": "master",
+    "git.branchRandomName.dictionary": [
+        "adjectives",
+        "animals",
+        "colors"
+    ]
+}
