@@ -1,4 +1,5 @@
 {
   "genieai.personalizedName": "Duck",
-  "genieai.enableConversationHistory": false
+  "genieai.enableConversationHistory": false,
+  "genieai.openai.model": "gpt-4"
 }
