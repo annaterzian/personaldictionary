@@ -20,7 +20,7 @@ This is my personal project. I want to make a personal dictionary application. T
 
 ## Data Source
 
-- https://www.merriam-webster.com/dictionary
-- https://www.merriam-webster.com/
-- https://www.thesaurus.com/
-- https://www.oxfordlearnersdictionaries.com/
+- <https://www.merriam-webster.com/dictionary>
+- <https://www.merriam-webster.com/>
+- <https://www.thesaurus.com/>
+- <https://www.oxfordlearnersdictionaries.com/>
