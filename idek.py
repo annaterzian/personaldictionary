@@ -28,7 +28,7 @@ class WordEntry:
         self.part = part
         
     def add_synonyms(self, synonyms: List[str]):
-        # Optionally check for duplicates before extending
+        # Optionally check for duplicates before extending        
         self.synonyms.extend(synonyms)
 
     def __str__(self):
@@ -120,7 +120,6 @@ def main():
             definition = input("Enter new definition: ")
             my_dict.update_word(word, part, definition)
             print(f"Definition for '{word}' updated.")
-            
             
         elif command == "synonyms":
             word = input("Enter word to find synonyms: ")
